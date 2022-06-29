@@ -4,7 +4,7 @@ This Github repository regroups the Python code and modules to run the actor-cri
 
 Abstract: *We propose a novel framework to solve risk-sensitive reinforcement learning (RL) problems where the agent optimises time-consistent dynamic spectral risk measures.
     Based on the notion of conditional elicitability, our methodology constructs (strictly consistent) scoring functions that are used as penalizers in the estimation procedure.
-    Our contribution is threefold:  we (i) devise an efficient approach to estimate a class of dynamic spectral risk measures with deep neural networks, (ii) develop a risk-sensitive actor-critic algorithm that uses full episodes and does not require any additional nested transitions, and (iii) prove that the dynamic spectral risk measures may be approximated to any arbitrary accuracy using deep neural-networks. We compare our conceptually improved reinforcement learning algorithm with the nested simulation approach and illustrate its performance in two settings: statistical arbitrage and portfolio allocation on both simulated and real data.*
+    Our contribution is threefold:  we (i) devise an efficient approach to estimate a class of dynamic spectral risk measures with deep neural networks, (ii) develop a risk-sensitive actor-critic algorithm that uses full episodes and does not require any additional nested transitions, and (iii) prove that the dynamic spectral risk measures may be approximated to any arbitrary accuracy using deep neural networks. We compare our conceptually improved reinforcement learning algorithm with the nested simulation approach and illustrate its performance in two settings: statistical arbitrage and portfolio allocation on both simulated and real data.*
 
 *** 
 
