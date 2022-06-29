@@ -1,6 +1,6 @@
 # Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning
 
-This Github repository regroups the Python code and modules to run the actor-critic algorithm described in our paper [Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning]() by [Anthony Coache](https://anthonycoache.ca/), [Sebastian Jaimungal](http://sebastian.statistics.utoronto.ca/) and [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). 
+This Github repository regroups the Python code and modules to run the actor-critic algorithm described in our paper [Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461) by [Anthony Coache](https://anthonycoache.ca/), [Sebastian Jaimungal](http://sebastian.statistics.utoronto.ca/) and [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). 
 
 Abstract: *We propose a novel framework to solve risk-sensitive reinforcement learning (RL) problems where the agent optimises time-consistent dynamic spectral risk measures.
     Based on the notion of conditional elicitability, our methodology constructs (strictly consistent) scoring functions that are used as penalizers in the estimation procedure.
