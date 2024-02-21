@@ -2,7 +2,7 @@
 
 This Github repository regroups the Python code and modules to run the actor-critic algorithm described in our paper [Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461) by [Anthony Coache](https://anthonycoache.ca/), [Sebastian Jaimungal](http://sebastian.statistics.utoronto.ca/) and [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). There is also an [explanatory Jupyter notebook](https://github.com/acoache/RL-ElicitableDynamicRisk/blob/main/notebook.ipynb) that showcases how to use the Python files for (i) using our proposed actor-critic algorithm and (ii) reproducing some of the main figures in the portfolio allocation example.
 
-For further details on the algorithm and theoretical aspects of the problem, please refer to our [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461).
+For further details on the algorithm and theoretical aspects of the problem, please refer to our [paper](https://doi.org/10.1137/22M1527209).
 
 
 Abstract: *We propose a novel framework to solve risk-sensitive reinforcement learning (RL) problems where the agent optimises time-consistent dynamic spectral risk measures.
